@@ -68,3 +68,4 @@ inoremap <silent> jj <ESC>
 
 colorscheme iceberg
 set background=dark
+set tw=0
