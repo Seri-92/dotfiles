@@ -64,7 +64,7 @@ set hlsearch
 " ESC連打でハイライト解除
 nmap <Esc><Esc> :nohlsearch<CR><Esc>
 
-inoremap <silent> jj <ESC>
+" inoremap <silent> jj <ESC>
 
 colorscheme iceberg
 set background=dark
